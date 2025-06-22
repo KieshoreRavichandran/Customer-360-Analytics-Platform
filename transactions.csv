@@ -1,0 +1,6 @@
+TransactionID,CustomerID,Amount,Date,Channel
+T001,1,120.0,2023-05-01,Online
+T002,2,350.5,2023-06-12,Branch
+T003,1,180.75,2023-07-20,ATM
+T004,3,90.0,2023-08-03,Online
+T005,4,450.25,2023-09-11,Branch
